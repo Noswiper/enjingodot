@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallCornerRond.obj-6802f8dd63c626bbff0408a561b3066e.mesh"
+
+[deps]
+
+files=[ "res://.import/wallCornerRond.obj-6802f8dd63c626bbff0408a561b3066e.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/wallCornerRond.obj"
+dest_files=[ "res://.import/wallCornerRond.obj-6802f8dd63c626bbff0408a561b3066e.mesh", "res://.import/wallCornerRond.obj-6802f8dd63c626bbff0408a561b3066e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

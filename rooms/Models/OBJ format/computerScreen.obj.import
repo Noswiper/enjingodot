@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/computerScreen.obj-789baea5b34bdc11981e787e58297415.mesh"
+
+[deps]
+
+files=[ "res://.import/computerScreen.obj-789baea5b34bdc11981e787e58297415.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/computerScreen.obj"
+dest_files=[ "res://.import/computerScreen.obj-789baea5b34bdc11981e787e58297415.mesh", "res://.import/computerScreen.obj-789baea5b34bdc11981e787e58297415.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

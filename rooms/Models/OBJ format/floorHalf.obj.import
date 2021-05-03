@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/floorHalf.obj-e4a783fdf6e24eea679ec336b4997afb.mesh"
+
+[deps]
+
+files=[ "res://.import/floorHalf.obj-e4a783fdf6e24eea679ec336b4997afb.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/floorHalf.obj"
+dest_files=[ "res://.import/floorHalf.obj-e4a783fdf6e24eea679ec336b4997afb.mesh", "res://.import/floorHalf.obj-e4a783fdf6e24eea679ec336b4997afb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

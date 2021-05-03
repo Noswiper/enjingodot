@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampRoundTable.obj-7e53e28077f10280e32783b028fb77df.mesh"
+
+[deps]
+
+files=[ "res://.import/lampRoundTable.obj-7e53e28077f10280e32783b028fb77df.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/lampRoundTable.obj"
+dest_files=[ "res://.import/lampRoundTable.obj-7e53e28077f10280e32783b028fb77df.mesh", "res://.import/lampRoundTable.obj-7e53e28077f10280e32783b028fb77df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

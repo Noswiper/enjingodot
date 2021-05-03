@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/stoneCorner_E.png-57aaf87ed916d98fbe1a11b81e4d907a.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://dungeon/Isometric/stoneCorner_E.png"
+dest_files=[ "res://.import/stoneCorner_E.png-57aaf87ed916d98fbe1a11b81e4d907a.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,31 @@
+{
+  "name": "habbo5-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konquer",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "utf-8-validate": "^3.0.4",
+    "vue-drag-directive": "^0.1.0",
+    "vue-draggabilly": "^1.1.0",
+    "vuedraggable": "^2.15.0"
+  },
+  "devDependencies": {
+    "@types/draggabilly": "^2.1.1",
+    "@types/jquery": "^3.2.16",
+    "@types/jqueryui": "^1.11.37",
+    "assets-loader": "^0.5.1",
+    "jquery": "^3.2.1",
+    "jquery-ui-dist": "^1.12.1",
+    "socket.io-client": "^2.0.4",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.6.2",
+    "vue": "^2.5.9",
+    "webpack": "^2.5.0"
+  }
+}

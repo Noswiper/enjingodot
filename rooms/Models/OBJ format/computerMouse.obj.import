@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/computerMouse.obj-57c06e122bcb47b29e34ed88735e6776.mesh"
+
+[deps]
+
+files=[ "res://.import/computerMouse.obj-57c06e122bcb47b29e34ed88735e6776.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/computerMouse.obj"
+dest_files=[ "res://.import/computerMouse.obj-57c06e122bcb47b29e34ed88735e6776.mesh", "res://.import/computerMouse.obj-57c06e122bcb47b29e34ed88735e6776.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

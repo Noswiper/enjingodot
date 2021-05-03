@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sideTable.obj-08b98c4d20f1350b9f3a272ed1066cd1.mesh"
+
+[deps]
+
+files=[ "res://.import/sideTable.obj-08b98c4d20f1350b9f3a272ed1066cd1.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/sideTable.obj"
+dest_files=[ "res://.import/sideTable.obj-08b98c4d20f1350b9f3a272ed1066cd1.mesh", "res://.import/sideTable.obj-08b98c4d20f1350b9f3a272ed1066cd1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

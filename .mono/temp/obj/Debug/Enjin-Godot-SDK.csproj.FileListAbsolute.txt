@@ -1,0 +1,8 @@
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\bin\Debug\Enjin-Godot-SDK.dll
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\bin\Debug\Enjin-Godot-SDK.pdb
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\obj\Debug\Enjin-Godot-SDK.csprojAssemblyReference.cache
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\obj\Debug\Enjin-Godot-SDK.AssemblyInfoInputs.cache
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\obj\Debug\Enjin-Godot-SDK.AssemblyInfo.cs
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\obj\Debug\Enjin-Godot-SDK.csproj.CoreCompileInputs.cache
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\obj\Debug\Enjin-Godot-SDK.dll
+C:\Users\peyto\Desktop\enjingodot\.mono\temp\obj\Debug\Enjin-Godot-SDK.pdb

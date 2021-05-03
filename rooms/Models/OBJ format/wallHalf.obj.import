@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallHalf.obj-4ce5224c392f9fc8e5e70605541d851e.mesh"
+
+[deps]
+
+files=[ "res://.import/wallHalf.obj-4ce5224c392f9fc8e5e70605541d851e.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/wallHalf.obj"
+dest_files=[ "res://.import/wallHalf.obj-4ce5224c392f9fc8e5e70605541d851e.mesh", "res://.import/wallHalf.obj-4ce5224c392f9fc8e5e70605541d851e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

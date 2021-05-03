@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sideTableDrawers.obj-899dfd0b25a74f3aae8950d5006a260f.mesh"
+
+[deps]
+
+files=[ "res://.import/sideTableDrawers.obj-899dfd0b25a74f3aae8950d5006a260f.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/sideTableDrawers.obj"
+dest_files=[ "res://.import/sideTableDrawers.obj-899dfd0b25a74f3aae8950d5006a260f.mesh", "res://.import/sideTableDrawers.obj-899dfd0b25a74f3aae8950d5006a260f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampSquareFloor.obj-c406a2613b08ccae2824a05bf9e53dee.mesh"
+
+[deps]
+
+files=[ "res://.import/lampSquareFloor.obj-c406a2613b08ccae2824a05bf9e53dee.mesh" ]
+
+source_file="res://rooms/Models/OBJ format/lampSquareFloor.obj"
+dest_files=[ "res://.import/lampSquareFloor.obj-c406a2613b08ccae2824a05bf9e53dee.mesh", "res://.import/lampSquareFloor.obj-c406a2613b08ccae2824a05bf9e53dee.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
